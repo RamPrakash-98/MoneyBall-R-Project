@@ -1,2 +1,7 @@
 # MONEYBALL
-https://github.com/RamPrakash-98/R-Projects/blob/main/moneyball_title.jpg
+
+![moneyball_title](https://user-images.githubusercontent.com/75033908/103377320-1c7ff680-4b05-11eb-867c-0f97504507f6.jpg)
+
+## USING MONEYBALL BATTING AND SALARY DATASET TO REPLACE PLAYERS WITH SIMILAR STATISTICS WITH LOWER SALARIES
+
+![Moneyball](https://user-images.githubusercontent.com/75033908/103377195-b3987e80-4b04-11eb-8d31-3074d7726026.jpg)
