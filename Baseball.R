@@ -27,7 +27,7 @@
 
 #Reading the CSV File----
 
-bat=read.csv("D:\\Udemy - Data Science and Machine Learning Bootcamp with R\\R-Course-HTML-Notes\\R-for-Data-Science-and-Machine-Learning\\Training Exercises\\Capstone and Data Viz Projects\\Capstone Project\\Batting.csv")
+bat=read.csv("D:\\Batting.csv")
 
 #Head----
 head(bat)
@@ -63,7 +63,7 @@ bat$SLG=(bat$X1B+2*bat$X2B+3*bat$X3B+4*bat$HR)/bat$AB
 
 #Reading Salaries Data----
 
-sal=read.csv("D:\\Udemy - Data Science and Machine Learning Bootcamp with R\\R-Course-HTML-Notes\\R-for-Data-Science-and-Machine-Learning\\Training Exercises\\Capstone and Data Viz Projects\\Capstone Project\\Salaries.csv")
+sal=read.csv("D:\\Salaries.csv")
 
 
 #Reassigning Batting data to yearID>1985----
